@@ -1,0 +1,2 @@
+# ThreadRace
+PATİKA ödev
